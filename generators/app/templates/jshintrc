@@ -1,0 +1,39 @@
+{
+    "globalstrict": true,
+    "strict": false,
+    "undef": true,
+    "unused": "vars",
+
+    "quotmark": "single",
+    "camelcase": true,
+    "newcap": true,
+    "indent": 4,
+
+    "noarg": true,
+    "eqnull": true,
+    "bitwise": true,
+    "curly": true,
+    "eqeqeq": true,
+    "immed": true,
+    "freeze": true,
+
+    "esnext": true,
+    "module": true,
+    "browser": true,
+    "jasmine": true,
+    "worker": true,
+
+    "maxcomplexity": 10,
+    "maxdepth": 3,
+    "maxparams": 5,
+    "maxstatements": 10,
+
+    "globals" : {
+        "angular": true,
+        "d3": true,
+        "Velocity": true,
+        "_": true,
+        "TUTE_CONST": true,
+        "console": true
+    }
+}
